@@ -1,2 +1,2 @@
 # 이메일
-### dgkim1108@gwnu.ac.kr
+- dgkim1108@gwnu.ac.kr
